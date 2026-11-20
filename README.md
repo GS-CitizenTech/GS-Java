@@ -34,6 +34,9 @@ A aplicação funciona como um backend centralizado, disponibilizando os recurso
 
 ---
 
+#Video Apresentação 
+Link: https://youtu.be/jso3si_8Yyo
+
 ## 2. Tecnologias utilizadas
 
 | Tecnologia | Responsabilidade no projeto |
